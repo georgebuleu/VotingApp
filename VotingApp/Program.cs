@@ -16,7 +16,7 @@ namespace VotingApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new defaultForm());
+            Application.Run(new mainForm());
         }
     }
 }

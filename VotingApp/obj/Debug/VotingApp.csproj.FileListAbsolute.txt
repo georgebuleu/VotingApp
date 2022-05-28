@@ -3,9 +3,10 @@ D:\IP_VotingApp_2022\VotingApp\VotingApp\bin\Debug\VotingApp.exe
 D:\IP_VotingApp_2022\VotingApp\VotingApp\bin\Debug\VotingApp.pdb
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.csproj.AssemblyReference.cache
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.csproj.SuggestedBindingRedirects.cache
-D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.Form1.resources
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.Properties.Resources.resources
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.csproj.GenerateResource.cache
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.csproj.CoreCompileInputs.cache
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.exe
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.pdb
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.mainForm.resources
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.QuestionForm.resources

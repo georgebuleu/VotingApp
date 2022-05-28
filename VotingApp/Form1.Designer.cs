@@ -1,6 +1,6 @@
 ﻿namespace VotingApp
 {
-    partial class defaultForm
+    partial class mainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -159,7 +159,7 @@
             this.label4.Text = "PoolID:";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
-            // defaultForm
+            // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -177,7 +177,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.nameTextBox);
-            this.Name = "defaultForm";
+            this.Name = "mainForm";
             this.Text = "VotingApp";
             this.ResumeLayout(false);
             this.PerformLayout();

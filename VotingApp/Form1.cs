@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace VotingApp
 {
-    public partial class defaultForm : Form
+    public partial class mainForm : Form
     {
-        public defaultForm()
+        public mainForm()
         {
             InitializeComponent();
         }
@@ -35,6 +35,10 @@ namespace VotingApp
         private void onConfirmBtn_Click(object sender, EventArgs e)
         {
             usedCNPLabel.Text = "CNP-ul este folosit pentru a vota!";
+            Form _question=new QuestionForm();
+            _question.Show();
+            this.Visible = false;
+
         }
 
         private void label4_Click(object sender, EventArgs e)
