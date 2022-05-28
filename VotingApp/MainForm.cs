@@ -37,12 +37,20 @@ namespace VotingApp
             usedCNPLabel.Text = "CNP-ul este folosit pentru a vota!";
             Form _question=new QuestionForm();
             _question.Show();
-            this.Visible = false;
+            this.Visible=false;
 
         }
 
         private void label4_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void onCreateBtn_Click(object sender, EventArgs e)
+        {
+            Form _create = new CreatePoolForm();
+            _create.Show();
+            this.Visible=false;
 
         }
     }

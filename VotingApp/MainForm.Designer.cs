@@ -141,6 +141,7 @@
             this.onCreateBtn.TabIndex = 10;
             this.onCreateBtn.Text = "Create";
             this.onCreateBtn.UseVisualStyleBackColor = true;
+            this.onCreateBtn.Click += new System.EventHandler(this.onCreateBtn_Click);
             // 
             // textBox1
             // 

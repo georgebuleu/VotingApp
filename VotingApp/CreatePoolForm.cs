@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace VotingApp
 {
-    public partial class QuestionForm : Form
+    public partial class CreatePoolForm : Form
     {
-        public QuestionForm()
+        public CreatePoolForm()
         {
             InitializeComponent();
         }
@@ -21,7 +21,8 @@ namespace VotingApp
         {
             Form mainForm = new mainForm();
             mainForm.Show();
-            this.Visible = false;
+            this.Close();
+            
         }
     }
 }

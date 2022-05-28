@@ -1,0 +1,13 @@
+D:\IP_VotingApp_2022\VotingApp\VotingApp\bin\Release\VotingApp.exe.config
+D:\IP_VotingApp_2022\VotingApp\VotingApp\bin\Release\VotingApp.exe
+D:\IP_VotingApp_2022\VotingApp\VotingApp\bin\Release\VotingApp.pdb
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.csproj.AssemblyReference.cache
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.csproj.SuggestedBindingRedirects.cache
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.mainForm.resources
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.Properties.Resources.resources
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.QuestionForm.resources
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.csproj.GenerateResource.cache
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.csproj.CoreCompileInputs.cache
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.exe
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.pdb
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Release\VotingApp.createPoolForm.resources

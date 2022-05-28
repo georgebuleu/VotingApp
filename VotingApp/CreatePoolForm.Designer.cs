@@ -1,6 +1,6 @@
 ﻿namespace VotingApp
 {
-    partial class QuestionForm
+    partial class CreatePoolForm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,7 +33,7 @@
             // 
             // backBtn
             // 
-            this.backBtn.Location = new System.Drawing.Point(713, 415);
+            this.backBtn.Location = new System.Drawing.Point(716, 409);
             this.backBtn.Name = "backBtn";
             this.backBtn.Size = new System.Drawing.Size(75, 23);
             this.backBtn.TabIndex = 0;
@@ -41,16 +41,14 @@
             this.backBtn.UseVisualStyleBackColor = true;
             this.backBtn.Click += new System.EventHandler(this.backBtn_Click);
             // 
-            // QuestionForm
+            // CreatePoolForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.backBtn);
-            this.Name = "QuestionForm";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Questions";
+            this.Name = "CreatePoolForm";
+            this.Text = "Create Pool";
             this.ResumeLayout(false);
 
         }
