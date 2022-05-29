@@ -10,3 +10,4 @@ D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.exe
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.pdb
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.mainForm.resources
 D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.QuestionForm.resources
+D:\IP_VotingApp_2022\VotingApp\VotingApp\obj\Debug\VotingApp.CreatePoolForm.resources
